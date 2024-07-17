@@ -1,0 +1,2 @@
+333,Calculus,123
+What is Domain of function ?,Set of All possible outputs.,Set of All outputs which are found in actual.,Set of all possible inputs.,None.,Set of all possible inputs.

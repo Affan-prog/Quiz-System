@@ -1,0 +1,5 @@
+090,planets,888
+which planet is the most earth-like in our solar system?,mars,venus,jupiter,neptune,mars
+which planet is called the red planet?,earth,jupiter,venus,mars,mars
+which planet among these planets is a failed star?,earth,mercury,jupiter,mars,jupiter
+which planet used to have oceans but its now dry and cold?,mars,earth,neptune,uranus,mars
